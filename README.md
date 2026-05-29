@@ -4,5 +4,5 @@ Repositório com atividades desenvolvidas durante a disciplina de Algoritmos e E
 
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone https://valdirneto34.github.io/AED-2/
+   git clone https://github.com/valdirneto34/AED-2
    ```
